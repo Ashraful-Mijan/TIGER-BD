@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+.cart-container {
+    margin: 10px 10px 10px 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: antiquewhite;
+}

@@ -1,0 +1,19 @@
+[{"id":1,"email":"mboyfield0@tmall.com","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg","team":"Changchun Teachers College","playername":"Shakib Al Hasan","role":"Batting Allrounder","sallary": 16000},
+{"id":2,"email":"cpidcock1@noaa.gov","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg","team":"Medical Academy Ludwik Rydygier in Bydgoszcz","playername":"Mushfiqur Rahim","role":"WK-Batsman","sallary": 1500},
+{"id":3,"email":"sschrei2@dedecms.com","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg","team":"Okanagan University College","playername":"Tamim Iqbal","role":"Batsman","sallary": 1600},
+{"id":4,"email":"gdwelling3@chronoengine.com","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg","team":"Saratov State Medical University","playername":"Mustafizur Rahman","role":"Bowler","sallary": 1800},
+{"id":5,"email":"jcordeau4@salon.com","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg","team":"Fachhochschule Weihenstephan","playername":"Mashrafe Mortaza","role":"Bowler","sallary": 11000},
+{"id":6,"email":"mlinch5@sphinn.com","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg","team":"Universidad Metropolitana de Asunción","playername":"Mehidy Hasan","role":"Bowling Allrounder","sallary": 20000},
+{"id":7,"email":"clonder6@ox.ac.uk","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg","team":"Wah Medical College","playername":"Mahmudullah","role":"Batting Allrounder","sallary": 1300},
+{"id":8,"email":"cfontin7@umich.edu","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg","team":"Chongqing Education College","playername":"Soumya Sarkar","role":"Batsman","sallary":1600},
+{"id":9, "email":"kkk@gamil.com", "gender": "Male", "img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg", "team":"Tiger",
+"role":"Batsman" , "sallary":"14000", "playername":"Rubel Hussain"
+},
+{"id":10, "email":"kkk@gamil.com", "gender": "Male", "img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg", "team":"Tiger",
+    "role":"Batsman", "playername": "Liton Dash", "sallary":"14000" 
+},
+{"id":11,"email":"greadshalla@google.cn","gender":"Male","img":"https://p.imgci.com/db/PICTURES/CMS/302900/302961.jpg","team":"Centro Universitario Ciudad Vieja","playername":"Abu Jayed Chowdhury","role":"Bowler","sallary": 1660},
+{"id":12,"email":"mulyattb@joomla.org","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg","team":"Universidad Especializada de Las Americas","playername":"Sabbir Rahman","role":"Batsman","sallary": 19.05},
+{"id":13,"email":"mgrimmc@gnu.org","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg","team":"Tianjin University","playername":"Mosaddek Hossain","role":"Batsman","sallary": 1121},
+{"id":14,"email":"jwigzelld@ameblo.jp","gender":"Male","img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg","team":"Tiger","playername":"Mohammad Saifuddin","role":"Batsman", "sallary": 1700}]
+
