@@ -1,0 +1,8 @@
+.main-header-wrapper {
+    color: rgba(240, 243, 246, 0.548);
+    text-align: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

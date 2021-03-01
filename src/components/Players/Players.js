@@ -18,7 +18,7 @@ function Players() {
 
     console.log(players)
     return (
-        <div className='container bg-light wrapper border border-info border-bottom-0'>
+        <div className='container bg-light wrapper border border-bottom-0'>
             <div className="players-container">
                 {
                     players.map(player => <PlayerList key={player.id} buttonHandler={addButtonHandler} player={player} />)

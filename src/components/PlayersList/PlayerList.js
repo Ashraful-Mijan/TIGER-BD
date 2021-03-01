@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee, faPlusCircle, faCheckSquare, faDollarSign, faEye } from '@fortawesome/free-solid-svg-icons'
 
 function PlayerList(props) {
-    const { playername, img, role, sallary } = props.player
+    const { playername, img, role, sallary, club } = props.player
     return (
         <div className='list-container bg-dark shadow rounded'>
             <div className="player-container">
@@ -15,6 +15,7 @@ function PlayerList(props) {
                     <h4>{playername}</h4>
                     <h6>{role}</h6>
                     <h6><FontAwesomeIcon icon={faDollarSign} /> {sallary}</h6>
+                    <h6>{club}</h6>
                 </div>
             </div>
             <div className="button">
